@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @poopypoops
-- 👀 I’m interested in decrypting and verifying JWT tokens
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on ..... I'm a noob
-- 📫 How to reach me ...
+- 👀 I’m interested in all things data! but also love to dable with random coding like decrypting and verifying JWT tokens :p
+- 🌱 I code mainly in python! but also learning javascript so i can automate with app scripts :)
+- 💞️ I’m looking to learn and build my code repository
 
 <!---
 poopypoops/poopypoops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
